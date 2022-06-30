@@ -15,7 +15,7 @@ jobs:
       - name: generate snake-anime.svg
         uses: Platane/snk@master
         with:
-          github_user_name: royrustdev
+          github_user_name: mattp0
           svg_out_path: dist/snake-anime.svg
 
       - run: git status
