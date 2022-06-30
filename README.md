@@ -1,10 +1,16 @@
-### Hi there 👋
-![mattp0's github stats](https://github-readme-stats.vercel.app/api?username=mattp0&count_private=true)
+### Hi there 👋 my name is Matt
+
+<h1 align="center">GitHub Stats</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mattp0" alt="mattp0" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattp0&hide_border=true&theme=gotham&show_icons=true" alt="mattp0" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mattp0" />
+
 
 - 🔭 I’m currently working on automating data pipelines
 - 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on fun automation projects
-- 💬 Ask me about robotics 🤖 or security 🔐 
+- 👯 I’m looking to collaborate on backend software engineering projects
+- 💬 Ask me about 🤖 or 🔐 
 - 📫 How to reach me: matt@mperry.io
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like fly fishing 🎣
