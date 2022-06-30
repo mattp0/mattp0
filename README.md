@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Matt
+### Hello there 👋 my name is Matt
 
 <h1 align="center">GitHub Stats</h1>
 
