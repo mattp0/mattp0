@@ -9,7 +9,7 @@
 
  <img src="https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg" alt="Github Snake Animation">
 
-- 🔭 I’m currently working on automating data pipelines
+- 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on backend software engineering projects
 - 💬 Ask me about 🤖 or 🔐 
