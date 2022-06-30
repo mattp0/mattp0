@@ -1,5 +1,6 @@
 ### Hello there 👋 my name is Matt
 
+![obi](obiwan.gif)
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattp0" alt="mattp0" /> </p>
