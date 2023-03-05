@@ -7,9 +7,9 @@ gif from Tenor, I do not own the gif.
 ## GitHub Stats
 ![Views](https://komarev.com/ghpvc/?username=mattp0)
 
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=gotham)
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&)
-![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)
+[![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=gotham)]
+[![Streaks](http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&)]
+[![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)]
 
 - 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
 - 🌱 I’m currently learning AWS
