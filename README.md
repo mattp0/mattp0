@@ -1,10 +1,10 @@
-### My name is Matt 
+### My name is Matt
 <!--
-gif from Tenor, I do not own the gif. 
+gif from Tenor, I do not own the gif.
 -->
 ![obi](hello-there-hi-there.gif)
 <h1 align="center">GitHub Stats</h1>
-
+[![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattp0" alt="mattp0" /> </p>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mattp0" />
 </p>
@@ -14,7 +14,7 @@ gif from Tenor, I do not own the gif.
 - 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on backend software engineering projects
-- 💬 Ask me about 🤖 or 🔐 
+- 💬 Ask me about 🤖 or 🔐
 - 📫 How to reach me: matt@mperry.io
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like fly fishing 🎣
