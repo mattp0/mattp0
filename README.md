@@ -3,13 +3,14 @@
 gif from Tenor, I do not own the gif.
 -->
 ![obi](hello-there-hi-there.gif)
-<h1 align="center">GitHub Stats</h1>
-[![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mattp0" alt="mattp0" /> </p>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mattp0" />
-</p>
 
- <img src="https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg" alt="Github Snake Animation">
+## GitHub Stats
+
+![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=dark)(https://github.com/anuraghazra/github-readme-stats)
+
+![Views](https://komarev.com/ghpvc/?username=mattp0)(Views)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&)(Streaks)
+![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)
 
 - 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
 - 🌱 I’m currently learning AWS
