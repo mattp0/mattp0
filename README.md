@@ -6,10 +6,10 @@ gif from Tenor, I do not own the gif.
 
 ## GitHub Stats
 
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=dark)(https://github.com/anuraghazra/github-readme-stats)
+![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp0&theme=gotham)
 
-![Views](https://komarev.com/ghpvc/?username=mattp0)(Views)
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&)(Streaks)
+![Views](https://komarev.com/ghpvc/?username=mattp0)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=mattp0&theme=gotham&)
 ![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)
 
 - 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
