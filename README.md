@@ -11,7 +11,7 @@ Pushed **985** commits
 
 Opened **153** issues
 
-Submitted **246** pull requests
+Submitted **247** pull requests
 
 Reviewed **60** pull requests
 
@@ -19,7 +19,7 @@ Received **3** stars
 
 Own **41** repositories
 
-Contributed to **25** public repositories
+Contributed to **26** public repositories
 
 [![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)](Snek)
 
