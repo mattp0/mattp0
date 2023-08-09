@@ -7,13 +7,13 @@ gif from Tenor, I do not own the gif.
 ## GitHub Stats
 Account age: **5** years
 
-Pushed **985** commits
+Pushed **947** commits
 
-Opened **153** issues
+Opened **152** issues
 
-Submitted **252** pull requests
+Submitted **245** pull requests
 
-Reviewed **62** pull requests
+Reviewed **61** pull requests
 
 Received **3** stars
 
