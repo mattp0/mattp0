@@ -7,8 +7,6 @@ gif from Tenor, I do not own the gif.
 ## GitHub Stats
 Account age: **{{ ACCOUNT_AGE }}** years
 
-Pushed **{{ COMMITS }}** commits
-
 Opened **{{ ISSUES }}** issues
 
 Submitted **{{ PULL_REQUESTS }}** pull requests
