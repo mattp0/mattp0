@@ -7,9 +7,9 @@ gif from Tenor, I do not own the gif.
 ## GitHub Stats
 Account age: **5** years
 
-Opened **154** issues
+Opened **155** issues
 
-Submitted **264** pull requests
+Submitted **265** pull requests
 
 Reviewed **65** pull requests
 
@@ -17,7 +17,7 @@ Received **5** stars
 
 Own **41** repositories
 
-Contributed to **28** public repositories
+Contributed to **29** public repositories
 
 [![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)](Snek)
 
