@@ -5,21 +5,7 @@ gif from Tenor, I do not own the gif.
 ![obi](hello-there-hi-there.gif)
 
 ## GitHub Stats
-Account age: **5** years
 
-Opened **156** issues
-
-Submitted **273** pull requests
-
-Reviewed **67** pull requests
-
-Received **5** stars
-
-Own **41** repositories
-
-Contributed to **30** public repositories
-
-[![Snake Graph!](https://raw.githubusercontent.com/mattp0/mattp0/output/snake-anime.svg)](Snek)
 
 - 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
 - 🌱 I’m currently learning AWS
