@@ -8,9 +8,7 @@ gif from Tenor, I do not own the gif.
 
 
 - 🔭 I’m currently working on automating :artificial_satellite: -- :satellite: data pipelines
-- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on backend software engineering projects
 - 💬 Ask me about 🤖 or 🔐
 - 📫 How to reach me: matt@mperry.io
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like fly fishing 🎣
